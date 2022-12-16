@@ -26,9 +26,11 @@ Temperatures for the month of December in Oahu average just 71 degrees with a lo
 + The minimum temperature in December is eight degrees colder than then minimum temperature in June.
 + The most notable difference is that in December the temperature regularly drops below 65 degrees while in June it rarely does. 
 
-![june_df_summary](https://user-images.githubusercontent.com/115502048/208158857-f9e9ef3e-b8f8-4814-bb50-ccacc4225d92.png)
+![june_df_summary](https://user-images.githubusercontent.com/115502048/208159550-bcfc6e17-5f0b-4707-bbbe-7a39a9a32f45.png)
 
-![dec_df_summary](https://user-images.githubusercontent.com/115502048/208158904-d7420280-06c9-4181-b933-1f65f28e4b48.png)
+
+![dec_df_summary](https://user-images.githubusercontent.com/115502048/208159563-1fde461c-c437-4e92-988b-06d7ee6bc336.png)
+
 
 ### Summary
 
